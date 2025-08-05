@@ -90,3 +90,4 @@ Here is a high-level overview of the project's structure:
     ├── TopicScreen.tsx     # The initial screen for user input
     └── ...                 # Other UI components and icons
 ```
+<img width="1004" height="557" alt="image" src="https://github.com/user-attachments/assets/164b53a6-2805-4a71-bc49-e7249bbe6698" />
