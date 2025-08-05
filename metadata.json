@@ -1,0 +1,5 @@
+{
+  "name": "AI German Article Generator & Quizzer",
+  "description": "Generate an illustrated German article on any topic. Click words for instant translations, then test your knowledge with a custom quiz based on the article's vocabulary.",
+  "requestFramePermissions": []
+}

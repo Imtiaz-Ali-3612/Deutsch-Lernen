@@ -1,3 +1,14 @@
-# Deutsch-Lernen
+# Run and deploy your AI Studio app
 
-<img width="1919" height="1061" alt="image" src="https://github.com/user-attachments/assets/b9e14dde-4159-4ed1-adc9-1df9f7b6dc70" />
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
